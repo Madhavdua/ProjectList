@@ -58,11 +58,11 @@ export const list=[
     {
         title:"Apple Clone",
         date:"Aug 2022",
-        tech:[html, css],
+        tech:[html, css,js],
         source:"https://github.com/Madhavdua/apple",
         link:"https://melodious-medovik-fec2d2.netlify.app",
         description:"I created this project using ....",
-        resp:false
+        resp:true
     },
     {
         title:"Wikipedia Clone",
